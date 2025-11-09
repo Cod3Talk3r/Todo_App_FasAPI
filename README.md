@@ -15,10 +15,6 @@ Full CRUD, JWT auth, search/filter, priority
 Live Demo: https://todo-app-fasapi.onrender.com/
 API Docs: https://todo-app-fasapi.onrender.com/docs
 
-{
-username: demo
-password: demo123
-}
 
 ## Features
 
