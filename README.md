@@ -42,5 +42,4 @@ venv\Scripts\activate  # Windows
 # source venv/bin/activate  # Mac/Linux
 
 pip install -r requirements.txt
-python init_db.py
 uvicorn app.main:app --reload
