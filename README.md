@@ -8,8 +8,6 @@ Clean FastAPI Todo API with SQLite • JWT Auth
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite)
 ![Tests](https://img.shields.io/badge/tests-100%25-success)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![screenshot](assets/demo.jpg)
-![screenshot](assets/demo2.jpg)
 
 **A clean, production-ready Todo API with FastAPI + SQLite**  
 Full CRUD, JWT auth, search/filter, priority
