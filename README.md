@@ -12,8 +12,8 @@ Clean FastAPI Todo API with SQLite • JWT Auth
 **A clean, production-ready Todo API with FastAPI + SQLite**  
 Full CRUD, JWT auth, search/filter, priority
 
-Live Demo: 
-API Docs: 
+Live Demo: https://todo-app-fasapi.onrender.com/
+API Docs: https://todo-app-fasapi.onrender.com/docs
 
 ## Features
 
